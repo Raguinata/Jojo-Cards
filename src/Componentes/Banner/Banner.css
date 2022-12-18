@@ -1,0 +1,8 @@
+.banner {
+    text-align: center;
+    background-color: rgba(252,252,252,255);
+}
+
+.banner img {
+    max-width: 100%;
+}
